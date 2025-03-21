@@ -17,4 +17,5 @@ public:
 };
 
 // intervals[i][0] ==== start of current interval
-// an.back()[1]  === end of last merged interval
+// ans.back()[1]  === end of last merged interval
+// ans.back()  === last interval
